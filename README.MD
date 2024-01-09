@@ -45,7 +45,7 @@ The MediaPipe library accurately detects hand gestures and calculates the distan
 
 ### 3.1 Hardware Setup
 
-![Circuit Diagram](docs/media/1-circuit-diagram.jpg)
+![Circuit Diagram](docs/media/1-circuit-diagram.jpeg)
 
 | Connections     | Pin No  |
 | --------------- | ------- |
