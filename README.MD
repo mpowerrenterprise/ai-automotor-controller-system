@@ -109,7 +109,7 @@ We will now install the necessary tools to gain access to the Arduino Board. Thi
 
 ### 4.2 Output
 
-[4-demo-video.webm](https://github.com/gunarakulangunaretnam/ai-automotor-contoller-system/assets/45822509/f6cc8c83-8e73-4ddd-b1c7-ea6e21f696ff)
+[4-demo-video.webm](https://github.com/gunarakulangunaretnam/ai-automotor-controller-system/assets/45822509/ded8e48f-9081-459f-af8e-02e956556937)
 
 ## Social Links
 
