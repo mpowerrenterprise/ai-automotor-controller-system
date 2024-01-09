@@ -45,7 +45,7 @@ The MediaPipe library accurately detects hand gestures and calculates the distan
 
 ### 3.1 Hardware Setup
 
-![Circuit Diagram](docs/media/1-circuit-diagram.png)
+![Circuit Diagram](docs/media/1-circuit-diagram.jpg)
 
 | Connections     | Pin No  |
 | --------------- | ------- |
@@ -76,7 +76,7 @@ We will now install the necessary tools to gain access to the Arduino Board. Thi
 - **Step 02:** Navigate to the specified location in CMD/Terminal.
 
   ```
-  ai-gesture-autolight-system/docs/requirements.txt
+  ai-automotor-contoller-system/docs/requirements.txt
   ```
 
 - **Step 03:** Execute the given command to install all dependencies.
@@ -90,7 +90,7 @@ We will now install the necessary tools to gain access to the Arduino Board. Thi
 - **Source Directory:**
 
   ```
-  ai-gesture-autolight-system\source\main.py
+  ai-automotor-contoller-system\source\main.py
   ```
 
 ### 4.1 Setps to run
@@ -109,7 +109,7 @@ We will now install the necessary tools to gain access to the Arduino Board. Thi
 
 ### 4.2 Output
 
-[4-demo-video.webm](https://github.com/gunarakulangunaretnam/ai-gesture-autolight-system/assets/45822509/f6cc8c83-8e73-4ddd-b1c7-ea6e21f696ff)
+[4-demo-video.webm](https://github.com/gunarakulangunaretnam/ai-automotor-contoller-system/assets/45822509/f6cc8c83-8e73-4ddd-b1c7-ea6e21f696ff)
 
 ## Social Links
 
