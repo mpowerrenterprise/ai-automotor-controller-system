@@ -1,4 +1,4 @@
-# AI AutoMotor Contoller System
+# AI AUTOMOTOR CONTOLLER SYSTEM
 
 ## Repo Structure
 
@@ -115,7 +115,7 @@ We will now install the necessary tools to gain access to the Arduino Board. Thi
 
 ### Website: 
 
-[![Website](https://img.shields.io/badge/Website%3A%20www.gunarakulan.info-%23E01E5A?style=flat&logo=realm&logoColor=white)](http://www.gunarakulan.info)
+[![Visit](https://img.shields.io/badge/Visit%3A%20www.gunarakulan.info-%23E01E5A?style=flat&logo=realm&logoColor=white)](https://www.gunarakulan.info)
 
 ### Social Media:
 
