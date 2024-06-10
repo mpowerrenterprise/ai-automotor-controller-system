@@ -1,4 +1,4 @@
-# AI AUTOMOTOR CONTOLLER SYSTEM
+# AI AutoMotor Controller System
 
 ## Repo Structure
 
@@ -111,7 +111,7 @@ We will now install the necessary tools to gain access to the Arduino Board. Thi
 
 [4-demo-video.webm](https://github.com/gunarakulangunaretnam/ai-automotor-controller-system/assets/45822509/ded8e48f-9081-459f-af8e-02e956556937)
 
-# CONTACT
+# Contact
 
 ### Website: 
 
